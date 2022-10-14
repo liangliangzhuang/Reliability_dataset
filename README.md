@@ -1,7 +1,7 @@
 # Reliability dataset (ing)
 
 
-Find/store datasets in the field of reliability
+查找/存储可靠性领域的数据集 Find/store datasets in the field of reliability
 
 ## Todo list
 
@@ -10,6 +10,7 @@ Find/store datasets in the field of reliability
 - accelerated data (lifetime/degradation)
 
 - degradation data
+
 
 ## How to do it?
 
