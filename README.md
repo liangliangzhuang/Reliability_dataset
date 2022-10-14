@@ -3,11 +3,11 @@ Find/store datasets in the field of reliability
 
 ## Todo list
 
-[] Lifetime data 
+- Lifetime data 
 
-[] accelerated data (lifetime/degradation)
+- accelerated data (lifetime/degradation)
 
-[] degradation data
+- degradation data
 
 ## How to do it?
 
